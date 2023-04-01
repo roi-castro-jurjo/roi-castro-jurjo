@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Roi Castro</h1>
-<h3 align="center">A Computer Science Student</h3>
+<h1 align="center">Roi Castro Jurjo</h1>
+<p align="right">
+<a href="https://linkedin.com/in/roi-castro-jurjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roi-castro-jurjo" height="30" width="40" /></a>
+</p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=roi-castro-jurjo&show_icons=true&theme=highcontrast&locale=en" alt="roi-castro-jurjo" /></p>
 
@@ -7,7 +9,4 @@
 
 <br></br>
 
-<p align="left">
-<a href="https://linkedin.com/in/roi-castro-jurjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roi-castro-jurjo" height="30" width="40" /></a>
-</p>
 
