@@ -29,10 +29,10 @@ Passionate software developer with a strong foundation in C, Yacc, Lex, and CMak
 > Note: For detailed descriptions and more project examples, please visit my [GitHub profile](https://github.com/roi-castro-jurjo).
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roi-castro-jurjo)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roi-castro-jurjo)
-[![trophy](https://github-profile-trophy.vercel.app/?username=roi-castro-jurjo)](https://github.com/roi-castro-jurjo)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=roi-castro-jurjo)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roi-castro-jurjo&theme=transparent )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roi-castro-jurjo&theme=transparent )
+[![trophy](https://github-profile-trophy.vercel.app/?username=roi-castro-jurjo&theme=darkhub)](https://github.com/roi-castro-jurjo)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=roi-castro-jurjo&theme=transparent )](https://git.io/streak-stats)
 
 ## Additional Information
 - Graduating soon, actively seeking full-stack development opportunities.
