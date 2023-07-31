@@ -42,7 +42,7 @@ Passionate software developer with a strong foundation in C, Yacc, Lex, and CMak
 ## Contact
 You can reach out to me via the following platforms:
 
-- Email: [roi.castro.jurjo@gmail.com](mailto:roi.castro.jurjo@gmail.com)
+- Email: [RoiCastroJurjo@gmail.com](mailto:RoiCastroJurjo@gmail.com)
 - LinkedIn: [Roi Castro Jurjo](https://www.linkedin.com/in/roi-castro-jurjo/)
 - Portfolio: *Coming Soon*
 
