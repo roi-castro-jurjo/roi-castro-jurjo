@@ -2,12 +2,6 @@
 ---
 #### Software Developer | Web Development Enthusiast | Galicia, Spain
 
-<div align="center">
-  
-[Projects](#projects) | [Contact](#contact)
-
-</div>
-
 ## Introduction
 Passionate software developer looking forward to learn more about web development. Equipped with knowledge and experience in a lot of technologies and tools. Graduating soon and aiming to become a full-stack developer. Actively seeking opportunities to deepen and diversify skill set. 
 
